@@ -2,6 +2,9 @@
 Testing various implementations of a RAG system.
 
 ## Objectives
+- [x] RAG systems research
+- [x] Exploratory testing
+- [ ] Generate an evaluation dataset
 - [ ] Implementation without predefined libraries
 - [ ] LlamaIndex implementation
 - [ ] Haystack implementation
